@@ -1,0 +1,11 @@
+Commercial 0 1234567 1 0.20 11111 Miami Ave
+No Information
+Commerical 23343.2 Wrong Way
+Residential 0 250000 1 5 Random Road
+Commercial 0 1234567 1 0.20 572 Random Road
+Residential 1 533000 0 57 Random Road
+Residential 23343.2 Wrong Way
+Residential 0 250000 1 572 Random Road
+I Will Break You
+Residential 1 533000 0 123456 Random Road
+Commerical 1 132 Way Place

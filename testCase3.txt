@@ -1,0 +1,16 @@
+Residential 0 250000 1 572 Random Road
+This shouldn't work
+Residential 1 533000 0 123456 Random Road
+
+Commercial 0 1234564 1 0.72 11 BYU Place
+
+
+Residential 0 250000 1 572 Random Road
+Why do you do this to me?
+Comercial 0 1234564 1 0.72 11 BYU Circle
+
+Commercial 0 1234564 1 0.15 111 BYU PlaceResidential 0 250000 1 572 Random Road
+HELP ME!!!
+Residential 1 1111 0 123456 Random Road
+
+Commercial 0 1234564 1 0.01 11 BYU Avenue
