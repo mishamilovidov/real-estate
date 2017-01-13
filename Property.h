@@ -21,7 +21,7 @@ public:
 	* Parameter: address
 	*		The address of the property
 	*/
-	Property::Property(bool rental, int value, string address);
+	Property(bool rental, int value, string address);
 	~Property();
 	//---------------------------------------------------------------------------------------
 	/*
