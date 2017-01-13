@@ -2,7 +2,7 @@
 
 A console program that computes the taxes due on a set of properties described in a data file. The program prompts the user to enter the location of the data file.  Based on the data in the file, the program reads in the data and displays it with a summary of the taxes due.
 
-###Local Dev Setup
+##Local Dev Setup
 * git clone repo
 * running on Mac (reference http://www.dvc.edu/academics/mcsd/computer-science/pdfs/UsingAppleXCode.pdf)
     * ensure latest Xcode and Xcode Command Line Tools are installed
