@@ -4,7 +4,7 @@ A console program that computes the taxes due on a set of properties described i
 
 ###Local Dev Setup
 * git clone repo
-* running on Mac
+* running on Mac (reference http://www.dvc.edu/academics/mcsd/computer-science/pdfs/UsingAppleXCode.pdf)
     * ensure latest Xcode and Xcode Command Line Tools are installed
     * open Terminal
     * navigate to directory with main.cpp
