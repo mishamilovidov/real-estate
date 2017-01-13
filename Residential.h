@@ -25,7 +25,7 @@ public:
 	* Parameter: address
 	*		The address of the property
 	*/
-	Residential::Residential(bool rental, int value, bool occupied, string address);
+	Residential(bool rental, int value, bool occupied, string address);
 	~Residential();
 	//---------------------------------------------------------------------------------------
 	/*

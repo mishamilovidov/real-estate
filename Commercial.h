@@ -27,7 +27,7 @@ public:
 	* Parameter: address
 	*		The address of the commercial property
 	*/
-	Commercial::Commercial(bool rental, int value, bool discountStatus, double discountRate, string address);
+	Commercial(bool rental, int value, bool discountStatus, double discountRate, string address);
 	~Commercial();
 	//---------------------------------------------------------------------------------------
 	/*
